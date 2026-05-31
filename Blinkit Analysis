@@ -1,3 +1,13 @@
+BUSINESS REQUIREMENTS
+To conduct a comprehensive analysis of Blinkit's sales Performance,customer satisfaction,and inventory distribution to identify
+key insights and opportunites for optimization using various KPIs and visualizations in powerbi.
+
+KPI's Requirements
+1.Total Sales: The overall revenue generated from all items sold.
+2.Average Sales: The average revenue per scale
+3.Number of items: The total count of different items sold.
+4.Average Rating: The average customer rating for items sold.
+
 STEPS IN PROJECT
 1.Requirement Gathering /Business Requirements
 2.Data Walkthrough
